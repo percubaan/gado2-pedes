@@ -1,6 +1,5 @@
 #EXTM3U 
 #EXT-X-VERSION:3
 
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://edgejt6.useetv.com/joss/15/useesport/chunklist_w820764305_b1344100_sleng.m3u8?enc=wSrHzFKztEPeJjc1yQ4fTA&exp=1580326484
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+https://edgejt6.useetv.com/joss/15/useesport/chunklist_w1470323825_b1344100_sleng.m3u8?enc=rEdQydfInlb7UdLnlh5W8Q&exp=1582479903
