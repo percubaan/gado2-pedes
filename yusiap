@@ -1,5 +1,7 @@
-#EXTM3U 
+#EXTM3U
 #EXT-X-VERSION:3
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://cdnkbl1.useetv.com/joss/15/useesport/chunklist_w27662587_b1344100_sleng.m3u8?enc=eybi-U-DbuWNnIxSUVe0iw&exp=1582662235
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:5.939267,
+http://mantul.biz.id:8888/live/henky6/mantulok/621.ts
