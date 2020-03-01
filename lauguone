@@ -1,6 +1,5 @@
-#EXTM3U 
+#EXTM3U
 #EXT-X-VERSION:3
 
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-http://streamku.live:8888/live/masmuto/masmuto20/754.ts
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=640000,RESOLUTION=640x360,NAME="360p"
+https://etslive-2-vidio-com.akamaized.net/exp=1583088445~acl=/hls-p/ingest_6588_*/*~hmac=ecdd44571987fcebc66813c124c1e1aeefd6ec1ff55b86db05d5c08406c35e53/hls-p/ingest_6588_480p/index.m3u8
