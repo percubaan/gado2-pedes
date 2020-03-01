@@ -1,7 +1,5 @@
-#EXTM3U
+#EXTM3U 
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:8
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PLAYLIST-TYPE:VOD
-#EXTINF:5.939267,
-http://mantul.biz.id:8888/live/henky6/mantulok/432.ts
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+https://cdnjt25.useetv.com/joss/15/useesport/chunklist_w772077162_b1344100_sleng.m3u8?enc=Mwi0wh9rtKB02-smSDjpMA&exp=1583073412
