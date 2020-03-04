@@ -2,5 +2,4 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=FZ1R34IO&v=20200202
-#https://livetvhooq.akamaized.net/930b6b972ba74d8f8347361bf59e0200/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1575810198~exp=9007200830551189~acl=/930b6b972ba74d8f8347361bf59e0200/*/profile_2/chunklist.m3u8*~hmac=be757c65a1d48ee8c1b45a3351cac930b62830581e6e501dce294e8d4b0d13a2&hdnts=st=1575810200~exp=1575810320~acl=/*~id=bd0dd9c2-df3f-4dfb-a78e-056c3f8e27ea~data=36.82.101.23~hmac=197851b4b73ed1bf51616d637679e2d4826960934dfd504950f6d3691efc3a97
+http://mantul.biz.id:8888/live/herry25/herry/185.ts
