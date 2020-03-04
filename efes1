@@ -2,4 +2,5 @@
 #EXT-X-VERSION:3
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
-https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w1604737106_b1344100_sleng.m3u8?enc=FALym0FXams_1SIpo9wbFA&exp=1582661579
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=FZ1R34IO&v=20200202
+#https://cdnbal1.useetv.com/joss/17/foxsport1/chunklist_w1604737106_b1344100_sleng.m3u8?enc=FALym0FXams_1SIpo9wbFA&exp=1582661579
